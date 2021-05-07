@@ -5,6 +5,8 @@ Research Domain Ontology (ROH) Competence Questions
 
 Some exemplary competence questions are shown below, which demonstrate the ROH ontology usage are shown below:
 
+* Q1 - Como usuario requiero obtener un listado de los centros/estructuras de investigación que trabajan en un área/disciplina específica: https://tinyurl.com/48t86zke
+* Q4 - Centros/estructuras de investigación que posean sellos de calidad asociados: https://tinyurl.com/34ayukvp
 * Q5 - Listado de los centros/estructuras de investigación que hayan realizado proyectos y su respectiva convocatoria: https://tinyurl.com/y4v39hy3
 * Q9 - Listado de patentes, diseños industriales, etc. de un centro/estructura de investigación en un área/disciplina:  https://tinyurl.com/yxhp5wky
 * Q10 - Listado de los proyectos adjudicados/desarrollados, de un centro/estructura de investigación, de un área/disciplina, en un determinado año de búsqueda: https://tinyurl.com/y5e7o855
