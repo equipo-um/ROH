@@ -8,12 +8,14 @@ Some exemplary competence questions are shown below, which demonstrate the ROH o
 * Q1 - Como usuario requiero obtener un listado de los centros/estructuras de investigación que trabajan en un área/disciplina específica: https://tinyurl.com/48t86zke
 * Q4 - Centros/estructuras de investigación que posean sellos de calidad asociados: https://tinyurl.com/34ayukvp
 * Q5 - Listado de los centros/estructuras de investigación que hayan realizado proyectos y su respectiva convocatoria: https://tinyurl.com/y4v39hy3
+* Q6 - Q6 - Listado de la producción científica en un determinado rango de fechas de un centro/estructura de investigación en un área/disciplina: https://tinyurl.com/67zv5ah7
 * Q9 - Listado de patentes, diseños industriales, etc. de un centro/estructura de investigación en un área/disciplina:  https://tinyurl.com/yxhp5wky
 * Q10 - Listado de los proyectos adjudicados/desarrollados, de un centro/estructura de investigación, de un área/disciplina, en un determinado año de búsqueda: https://tinyurl.com/y5e7o855
 * Q12 - Listar proyectos agrupados por ámbito geográfico: https://tinyurl.com/yy39bv58
 * Q16A - Dada una persona listar proyectos en los que ha intervenido filtrados por periodo y/o organización: https://tinyurl.com/yyejunrz
 * Q16B - Dada una persona listar research objects a los que ha contribuido, filtrados por periodo y/o organización: https://tinyurl.com/y42p6ah4
 * Q18 - Contar las publicaciones con índice de impacto de un usuario en un periodo de tiempo: https://tinyurl.com/yxjxrz8s
+* Q20 - Como usuario necesito detectar tendencias en áreas y líneas investigación a partir de los datos disponibles en Hércules: https://tinyurl.com/rxt2ddts
 * Q26 - Obtener el listado de congresos/workshops y eventos de divulgación científica en los que haya participado indicando el rol que he tenido: organizador, expositor, etc: https://tinyurl.com/y58ly6k7
 * Q28 - Obtener el listado de proyectos en los que he participado incluyendo el rol que he desempeñado, por ejemplo, investigador principal: https://tinyurl.com/y2fa474q
 * Q34 - Proyecto en estado PROPOSAL_SUBMITTED dirigidas a una empresa e incluso detalles económicos de la misma, el Funding propuesto y los Funding Amounts associado: https://tinyurl.com/yxgu6pg7
